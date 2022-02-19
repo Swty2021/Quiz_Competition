@@ -1,0 +1,10 @@
+# Quiz_Competition
+This project is a Quiz program.
+The questions and answers are stored as json file 
+The player will give input for how many questions he/she wants to play.
+Depending on the answers, the player will get scores.
+For each correct answer 1 point and wrong answer -1 point.
+The interface will ask if the player wish to continue the game or not after the choices of question get over.
+Finally the score will be displayed to the player
+The score will be sent to player's mobile no and email id
+
